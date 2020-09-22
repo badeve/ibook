@@ -1,0 +1,8 @@
+# Created by .ignore support plugin (hsz.mobi)
+.gitignore
+.idea/
+node_modules/
+docs/.vuepress/
+docs/.vuepress/config.js
+docs/.vuepress/styles
+node_modules
